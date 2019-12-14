@@ -19,6 +19,8 @@ The corpus contains a total of 10472 sentences belonging to the following catego
 
 ## Dataset Overview
 
+The labeled data could be downloaded from [here](https://github.com/midas-research/hindi-discourse/blob/master/discourse_dataset.json).
+
 #### Distribution of sentences in different discourse modes
 
 <br>
@@ -81,3 +83,11 @@ Please feel free to send us an email:
 - if interested in a collaborative research project.
 
 Copyright (C) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi (MIDAS, IIIT-Delhi)
+
+## References
+Paper under review. Please check back soon.
+
+
+```
+
+```
