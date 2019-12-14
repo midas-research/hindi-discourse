@@ -21,6 +21,11 @@ The corpus contains a total of 10472 sentences belonging to the following catego
 
 The labeled data could be downloaded from [here](https://github.com/midas-research/hindi-discourse/blob/master/discourse_dataset.json).
 
+The data is shared in a json format. Each entry is a sentence along with it's annotated majority label:
+
+{'Story_no': 15, 'Sentence': ' गाँठ से साढ़े तीन रुपये लग गये, जो अब पेट में जाकर खनकते भी नहीं! जो तेरी करनी मालिक! ” “इसमें मालिक की क्या करनी है? ”', 'Discourse Mode': 'Dialogue'}
+
+
 #### Distribution of sentences in different discourse modes
 
 <br>
