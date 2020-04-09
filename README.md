@@ -90,7 +90,7 @@ Please feel free to send us an email:
 Copyright (C) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi (MIDAS, IIIT-Delhi)
 
 ## References
-Paper under review. Please check back soon.
+Paper accepted at LREC 2020. Please check back soon.
 
 
 ```
